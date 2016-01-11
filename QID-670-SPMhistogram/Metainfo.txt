@@ -4,7 +4,7 @@ Published in: Nonparametric and Semiparametric Models
 
 Description: Computes a histogram for stock returns data with binwidth h = 0.02 and origin x0 = 0.
 
-Keywords: binwidth, histogram, financial, asset, returns, plot, graphical representation, data visualization 
+Keywords: plot, graphical representation, data visualization, histogram, financial, returns, asset, binwidth
 
 See also: SPMhisdiffbin, SPMhisdiffori, SPMhistmse, SPMhiststock, SPMstockreturnhisto, SPMHistoConstruct, SPMhistobias2, SPMbuffahisto
 

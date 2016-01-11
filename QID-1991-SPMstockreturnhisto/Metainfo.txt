@@ -4,7 +4,7 @@ Published in: Nonparametric and Semiparametric Models
 
 Description: Illustrates histogram of stock returns.
 
-Keywords: plot, graphical representation, data visualization, histogram
+Keywords: plot, graphical representation, data visualization, histogram, financial, returns, asset
 
 See also: SPMhiststock, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHistoConstruct, SPMhistobias2
 
