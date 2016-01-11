@@ -1,0 +1,15 @@
+Name of QuantLet: SPMbuffahisto
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Illustrates the mean squared error (MSE) of the histogram of Buffalo snowfall data.
+
+Keywords: plot, graphical representation, data visualization, histogram, MSE
+
+See also: SPMbuffagrid, SPMbuffadata
+
+Author: Awdesch Melzer
+
+Submitted: Mon, October 29 2012 by Dedy Dwi Prastyo
+
+Datafiles: buffa.dat
