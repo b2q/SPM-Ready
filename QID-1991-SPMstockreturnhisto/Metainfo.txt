@@ -2,7 +2,7 @@ Name of QuantLet: SPMstockreturnhisto
 
 Published in: Nonparametric and Semiparametric Models
 
-Description: Illustrates histogram of stock returns.
+Description: Illustrates a histogram of stock returns.
 
 Keywords: plot, graphical representation, data visualization, histogram, financial, returns, asset
 

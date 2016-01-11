@@ -2,7 +2,7 @@ Name of QuantLet: SPMhistobias2
 
 Published in: Nonparametric and Semiparametric Models
 
-Description: Illustrates bias of the histogram.
+Description: Illustrates bias of a histogram.
 
 Keywords: plot, graphical representation, histogram, bias
 

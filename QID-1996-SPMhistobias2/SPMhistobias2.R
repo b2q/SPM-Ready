@@ -5,7 +5,7 @@ graphics.off()
 
 norm = seq(-4.5, 4.5, 0.05)
 normline = cbind(norm, dnorm(norm))
-plot(normline, type = "l", col = "red", lwd = 3, ylab = "Normal distribution", main = "Bias of the Histogram", 
+plot(normline, type = "l", col = "red", lwd = 3, ylab = "Normal distribution", main = "Bias of Histogram", 
     xlab = "")
 
 x0 = cbind(c(0, 0), c(0, dnorm(0)))
