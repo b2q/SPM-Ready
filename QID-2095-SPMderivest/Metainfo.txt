@@ -6,7 +6,7 @@ Description: Computes a derivative estimator for UK 1973 expenditure data.
 
 Keywords: estimation, derivative, financial, plot, graphical representation, data visualization
 
-See also: SPMgasmul, SPMlocpolyderivative
+See also: SPMgasmul, SPMsplineregression, SPMfesdensities, SPMlocpolyderivative, SPMnadwaest, SPMlocpolyest, SPMmesmooreg
 
 Author: Awdesch Melzer
 

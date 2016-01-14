@@ -6,7 +6,7 @@ Description: Computes the derivative of the food on net-income regression for th
 
 Keywords: derivative, kernel, local polynomial, nonparametric, regression, financial, plot, graphical representation, data visualization
 
-See also: SPMgasmul, SPMderivest
+See also: SPMgasmul, SPMderivest, SPMsplineregression, SPMfesdensities, SPMlocpolyest, SPMnadwaest, SPMmesmooreg
 
 Author: Marlene Mueller
 

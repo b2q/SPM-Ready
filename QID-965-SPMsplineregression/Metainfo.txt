@@ -6,7 +6,7 @@ Description: Computes the regression of food on net-income for the UK 1976 expen
 
 Keywords: nonparametric, regression, financial, plot, graphical representation, data visualization
 
-See also: SPMderivest, SPMlocpolyderivative, SPMmesmooreg
+See also: SPMderivest, SPMlocpolyderivative, SPMmesmooreg, SPMfesdensities, SPMnadwaest, SPMlocpolyest
 
 Author: Marlene Mueller
 
