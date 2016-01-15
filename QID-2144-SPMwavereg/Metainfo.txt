@@ -6,6 +6,8 @@ Description: Computes the wavelet regression using Daubechies basis for a simula
 
 Keywords: regression, simulation, basis, plot, graphical representation
 
+See also: SPMmesmooreg, SPMknnreg
+
 Author: Awdesch Melzer
 
 Submitted: Wed, March 20 2013 by Franziska Schulz
