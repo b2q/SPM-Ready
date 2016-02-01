@@ -9,8 +9,8 @@ Name of QuantLet : SPMkde2D
 
 Published in : Nonparametric and Semiparametric Models
 
-Description : Computes the kernel density estimate for simulated multivariate normal random
-numbers.
+Description : 'Computes the kernel density estimate for simulated multivariate normal random
+numbers.'
 
 Keywords : 'plot, graphical representation, kernel, density, kde, bivariate, multivariate,
 estimation, simulation, normal, random'
